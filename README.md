@@ -1,2 +1,2 @@
 Inilah MY GAME
-<iframe src="https://github.com/MusaChusnaini/flappy-bird-phaser3.git" width="400" height="800"></iframe>
+<iframe src="https://musachusnaini.github.io/flappy-bird-phaser3/" width="400" height="800"></iframe>
